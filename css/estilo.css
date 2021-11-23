@@ -150,10 +150,6 @@
     
         }
     
-        audio {
-    
-            display: none;
-        }
     
     
         .img_pu {
@@ -174,3 +170,10 @@
             text-align: center;
     
         }  
+
+
+        .lisx{
+
+        text-align: justify;
+
+        }
